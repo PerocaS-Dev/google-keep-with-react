@@ -1,4 +1,23 @@
+# 🎬 Google Keep Clone with ReactJS
 
+## 📌 Project Overview
+
+This is a clone of the google keep app, built using **HTML, CSS and ReactJS**.
+The goal was to replicate the design, layout and responsiveness.
+
+## 🔗 Netlify link
+
+👉 https://peroca-react-google-keep.netlify.app/
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Structure & content
+- **CSS3** - Styling & responsiveness
+- **ReactJS** - Resposiveness, rendering and content
+
+## 📂 Project Setup: github
+
+👉 https://github.com/PerocaS-Dev/google-keep-with-react.git
 
 # React + Vite
 
